@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <div id="app">
-      <v-app-bar prominent color="primary" >
+      <v-app-bar prominent color="primary">
         <div id="nav">
           <router-link to="/">Home</router-link> |
           <router-link to="/about">About</router-link>
@@ -10,7 +10,7 @@
 
       <router-view />
     </div>
-    </v-app>
+  </v-app>
 </template>
 
 <style lang="scss">
