@@ -1,0 +1,4 @@
+- i18n
+https://lokalise.com/blog/vue-i18n/?utm_source=google&utm_medium=cpc&utm_campaign=GENERIC_i18n-vuejs&gclid=Cj0KCQiAj9iBBhCJARIsAE9qRtCGLj1tzLbA0xbzVWOhqBKVvqGAy-4ZPsPkIhOlnfpF6mYQjYQ68CYaAt6lEALw_wcB
+
+-
