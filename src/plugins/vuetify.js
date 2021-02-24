@@ -21,6 +21,7 @@ export default new Vuetify({
         secundary: colors.grey.base,
         danger: colors.red.base
       }
+      
     }
   }
 });
