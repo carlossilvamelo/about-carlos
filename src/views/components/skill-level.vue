@@ -1,8 +1,9 @@
 <template>
   <v-row no-gutters>
-    <v-col xs="6" sm="6" md="6" lg="6" xl="6">
+    <v-col xs="6" sm="6" md="6" lg="6" xl="6" >
       <span class="title"> {{ title }} </span>
     </v-col>
+    
     <v-col xs="6" sm="6" md="6" lg="6" xl="6">
       <v-progress-linear
         color="blue"
