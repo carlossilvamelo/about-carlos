@@ -15,15 +15,20 @@
 
 <style lang="scss">
 .app-card {
-  padding: 15px;
-  border: 1px solid rgb(170, 170, 170);
+  padding: 10px;
+  margin: 10px;
+  min-width: 300px;
+  border: 1px solid rgb(230, 230, 230);
 }
 .app-card:hover {
   transition: 0.5s;
-  padding: 15px;
-  border: 1px solid rgb(170, 170, 170);
-  box-shadow: 10px 5px 5px rgb(170, 170, 170);
+  min-width: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid rgb(230, 230, 230);
+  box-shadow: 5px 5px 5px rgb(170, 170, 170);
 }
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -44,10 +49,13 @@
     }
   }
 }
-.toolbar{
+.toolbar {
   margin-bottom: 10px;
 }
-.main-container{
+.main-container {
   padding: 1%;
+}
+.col-style {
+  margin-bottom: 10px;
 }
 </style>

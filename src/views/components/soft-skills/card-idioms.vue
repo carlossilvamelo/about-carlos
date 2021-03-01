@@ -1,15 +1,15 @@
 <template>
   <div class="app-card">
     <v-row no-gutters>
-      <v-col offset="6" xs="6" sm="6" md="6" lg="6" xl="6">
+      <v-col xs="12" sm="12" md="6" lg="6" xl="6">
         <levels />
       </v-col>
     </v-row>
     <v-row no-gutters>
-      <v-col xs="6" sm="6" md="6" lg="6" xl="6">
+      <v-col xs="12" sm="12" md="6" lg="6" xl="6">
         <img src="@/assets/reino-unido.png" />
       </v-col>
-      <v-col xs="6" sm="6" md="6" lg="6" xl="6">
+      <v-col xs="12" sm="12" md="6" lg="6" xl="6">
         <v-progress-linear
           color="blue"
           height="30"
@@ -19,10 +19,10 @@
       </v-col>
     </v-row>
     <v-row no-gutters>
-      <v-col xs="6" sm="6" md="6" lg="6" xl="6">
+      <v-col xs="12" sm="12" md="6" lg="6" xl="6">
         <img src="@/assets/espanha.png" />
       </v-col>
-      <v-col xs="6" sm="6" md="6" lg="6" xl="6">
+      <v-col xs="12" sm="12" md="6" lg="6" xl="6">
         <v-progress-linear
           color="blue"
           height="30"
